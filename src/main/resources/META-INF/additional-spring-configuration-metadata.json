@@ -1,0 +1,62 @@
+{"properties": [
+  {
+    "name": "CREATE",
+    "type": "java.lang.String",
+    "description": "A description for 'CREATE'"
+  },
+  {
+    "name": "INSERT",
+    "type": "java.lang.String",
+    "description": "A description for 'INSERT'"
+  },
+  {
+    "name": "values",
+    "type": "java.lang.String",
+    "description": "A description for 'values'"
+  },
+  {
+    "name": "codigo",
+    "type": "java.lang.String",
+    "description": "A description for 'codigo'"
+  },
+  {
+    "name": "nome",
+    "type": "java.lang.String",
+    "description": "A description for 'nome'"
+  },
+  {
+    "name": "ativo",
+    "type": "java.lang.String",
+    "description": "A description for 'ativo'"
+  },
+  {
+    "name": "logradouro",
+    "type": "java.lang.String",
+    "description": "A description for 'logradouro'"
+  },
+  {
+    "name": "numero",
+    "type": "java.lang.String",
+    "description": "A description for 'numero'"
+  },
+  {
+    "name": "complemento",
+    "type": "java.lang.String",
+    "description": "A description for 'complemento'"
+  },
+  {
+    "name": "bairro",
+    "type": "java.lang.String",
+    "description": "A description for 'bairro'"
+  },
+  {
+    "name": "cidade",
+    "type": "java.lang.String",
+    "description": "A description for 'cidade'"
+  },
+  {
+    "name": "cidade",
+    "type": "java.lang.String",
+    "description": "A description for 'cidade'"
+  }
+]}
