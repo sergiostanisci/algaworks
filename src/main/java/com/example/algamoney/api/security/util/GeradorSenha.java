@@ -8,7 +8,7 @@ public class GeradorSenha {
 		
 		BCryptPasswordEncoder encolder = new BCryptPasswordEncoder();
 		System.out.println(encolder.encode("admin"));
-		
+	
 		// usuario admin senha admin
 		// usuario maria senha maria
 	}

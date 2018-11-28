@@ -9,7 +9,7 @@ public class AlgamoneyApiProperty {
 
 	private final Seguranca seguranca = new Seguranca();
 	
-	private String originPermitida = "http://localhost:8000";
+	private String originPermitida = "http://localhost:8080";
 	
 	public Seguranca getSeguranca() {
 		return seguranca;
